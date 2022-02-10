@@ -1,4 +1,5 @@
-# Bryan Velasco // CPNT-262 // Plugin' Away
+# Bryan Velasco // CPNT-262 // Plugin' Away  2.0
+[Plugin' Away-First Try](https://cosmob3.github.io/plugin-away/)
 
 ### How did you install the library?
 - As external code in a `<script>` element in the `<head>` element of the HTML file 
@@ -11,6 +12,7 @@ Photo of Pizza by [Krisp Cut](https://www.pexels.com/photo/close-up-photo-of-per
 
 Photo of Pepperoni by [Polina Tankilevitch](https://www.pexels.com/photo/close-up-shot-of-pepperoni-pizza-4109073/) from Pexels
 
+[What is Lodash and How it Works (for beginners)](https://www.youtube.com/watch?v=YyxliogSwrM&t=310s) By iEatWebsites
 
 ## February 9, 2022
 TODO: **Work on Plugin' Away - Achievement 1**
@@ -29,7 +31,7 @@ So I don't really understand what is going on... maybe for a later time when I u
 
 Going to try `lodash`.
 
-I tried it. Saw this video on youtube that helped to understand some of the functions of lodash but I'm not sure how to demo it. Like I can see it in the `console` but I'm not sure what to add to the HTML to actually make the javascript useful.
+I tried it. Saw this video on youtube [What is Lodash and How it Works (for beginners)](https://www.youtube.com/watch?v=YyxliogSwrM&t=310s) By iEatWebsites that helped to understand some of the functions of lodash but I'm not sure how to demo it. Like I can see it in the `console` but I'm not sure what to add to the HTML to actually make the javascript useful.
 
 I think I'll do the `reveal.js` for now and ask more about it tomorrow. I thought I was understanding this better but I'm still pretty lost...
 
